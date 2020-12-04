@@ -1,0 +1,12 @@
+/Users/farzad.jalali/code/2020-adventofcode-com/AdventOfCode.Days/AdventOfCode.Apps/obj/Debug/netcoreapp3.1/AdventOfCode.Apps.csprojAssemblyReference.cache
+/Users/farzad.jalali/code/2020-adventofcode-com/AdventOfCode.Days/AdventOfCode.Apps/obj/Debug/netcoreapp3.1/AdventOfCode.Apps.AssemblyInfoInputs.cache
+/Users/farzad.jalali/code/2020-adventofcode-com/AdventOfCode.Days/AdventOfCode.Apps/obj/Debug/netcoreapp3.1/AdventOfCode.Apps.AssemblyInfo.cs
+/Users/farzad.jalali/code/2020-adventofcode-com/AdventOfCode.Days/AdventOfCode.Apps/obj/Debug/netcoreapp3.1/AdventOfCode.Apps.csproj.CoreCompileInputs.cache
+/Users/farzad.jalali/code/2020-adventofcode-com/AdventOfCode.Days/AdventOfCode.Apps/bin/Debug/netcoreapp3.1/AdventOfCode.Apps.deps.json
+/Users/farzad.jalali/code/2020-adventofcode-com/AdventOfCode.Days/AdventOfCode.Apps/bin/Debug/netcoreapp3.1/AdventOfCode.Apps.runtimeconfig.json
+/Users/farzad.jalali/code/2020-adventofcode-com/AdventOfCode.Days/AdventOfCode.Apps/bin/Debug/netcoreapp3.1/AdventOfCode.Apps.runtimeconfig.dev.json
+/Users/farzad.jalali/code/2020-adventofcode-com/AdventOfCode.Days/AdventOfCode.Apps/bin/Debug/netcoreapp3.1/AdventOfCode.Apps.dll
+/Users/farzad.jalali/code/2020-adventofcode-com/AdventOfCode.Days/AdventOfCode.Apps/bin/Debug/netcoreapp3.1/AdventOfCode.Apps.pdb
+/Users/farzad.jalali/code/2020-adventofcode-com/AdventOfCode.Days/AdventOfCode.Apps/obj/Debug/netcoreapp3.1/AdventOfCode.Apps.dll
+/Users/farzad.jalali/code/2020-adventofcode-com/AdventOfCode.Days/AdventOfCode.Apps/obj/Debug/netcoreapp3.1/AdventOfCode.Apps.pdb
+/Users/farzad.jalali/code/2020-adventofcode-com/AdventOfCode.Days/AdventOfCode.Apps/obj/Debug/netcoreapp3.1/AdventOfCode.Apps.genruntimeconfig.cache
