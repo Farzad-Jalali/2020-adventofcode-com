@@ -1,5 +1,5 @@
 ﻿using System;
-using AdventOfCode.Apps.day1;
+using AdventOfCode.Apps.days;
 
 namespace AdventOfCode.Apps
 {

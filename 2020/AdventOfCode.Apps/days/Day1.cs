@@ -3,7 +3,7 @@ using System.Net.Http;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace AdventOfCode.Apps.day1
+namespace AdventOfCode.Apps.days
 {
     public class Day1
     {
