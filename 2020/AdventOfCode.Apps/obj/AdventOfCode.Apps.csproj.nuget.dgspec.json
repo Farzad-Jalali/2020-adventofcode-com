@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/farzad.jalali/code/2020-adventofcode-com/AdventOfCode.Days/AdventOfCode.Apps/AdventOfCode.Apps.csproj": {}
+    "/Users/farzad.jalali/code/advent-of-code/2020/AdventOfCode.Apps/AdventOfCode.Apps.csproj": {}
   },
   "projects": {
-    "/Users/farzad.jalali/code/2020-adventofcode-com/AdventOfCode.Days/AdventOfCode.Apps/AdventOfCode.Apps.csproj": {
+    "/Users/farzad.jalali/code/advent-of-code/2020/AdventOfCode.Apps/AdventOfCode.Apps.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/farzad.jalali/code/2020-adventofcode-com/AdventOfCode.Days/AdventOfCode.Apps/AdventOfCode.Apps.csproj",
+        "projectUniqueName": "/Users/farzad.jalali/code/advent-of-code/2020/AdventOfCode.Apps/AdventOfCode.Apps.csproj",
         "projectName": "AdventOfCode.Apps",
-        "projectPath": "/Users/farzad.jalali/code/2020-adventofcode-com/AdventOfCode.Days/AdventOfCode.Apps/AdventOfCode.Apps.csproj",
+        "projectPath": "/Users/farzad.jalali/code/advent-of-code/2020/AdventOfCode.Apps/AdventOfCode.Apps.csproj",
         "packagesPath": "/Users/farzad.jalali/.nuget/packages/",
-        "outputPath": "/Users/farzad.jalali/code/2020-adventofcode-com/AdventOfCode.Days/AdventOfCode.Apps/obj/",
+        "outputPath": "/Users/farzad.jalali/code/advent-of-code/2020/AdventOfCode.Apps/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/farzad.jalali/.nuget/NuGet/NuGet.Config"
@@ -24,6 +24,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -35,6 +36,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -45,12 +47,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.8, 3.1.8]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/Users/farzad.jalali/.dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
         }
       }
     }

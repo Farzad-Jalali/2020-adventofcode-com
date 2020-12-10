@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/farzad.jalali/code/2020-adventofcode-com/AdventOfCode.Days/AdventOfCode.Apps/AdventOfCode.Apps.csproj",
+    "projectUniqueName": "/Users/farzad.jalali/code/advent-of-code/2020/AdventOfCode.Apps/AdventOfCode.Apps.csproj",
     "projectName": "AdventOfCode.Apps",
-    "projectPath": "/Users/farzad.jalali/code/2020-adventofcode-com/AdventOfCode.Days/AdventOfCode.Apps/AdventOfCode.Apps.csproj",
-    "outputPath": "/Users/farzad.jalali/code/2020-adventofcode-com/AdventOfCode.Days/AdventOfCode.Apps/obj/",
+    "projectPath": "/Users/farzad.jalali/code/advent-of-code/2020/AdventOfCode.Apps/AdventOfCode.Apps.csproj",
+    "outputPath": "/Users/farzad.jalali/code/advent-of-code/2020/AdventOfCode.Apps/obj/",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp3.1"
@@ -35,12 +35,18 @@
       ],
       "assetTargetFallback": true,
       "warn": true,
+      "downloadDependencies": [
+        {
+          "name": "Microsoft.AspNetCore.App.Ref",
+          "version": "[3.1.8, 3.1.8]"
+        }
+      ],
       "frameworkReferences": {
         "Microsoft.NETCore.App": {
           "privateAssets": "all"
         }
       },
-      "runtimeIdentifierGraphPath": "/Users/farzad.jalali/.dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
+      "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
     }
   }
 }
